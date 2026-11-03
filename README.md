@@ -2052,7 +2052,7 @@ The major components are:
         |         |           |
         |  Feed-Forward       |
         |  Network             |
-        +---------------------+
+        +---------------------+ 
                  |
                  v
           Encoded Information
